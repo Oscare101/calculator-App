@@ -686,12 +686,14 @@ const styles = StyleSheet.create({
     flex: 1,
     borderRadius: 15,
     padding: 10,
+    elevation: 5,
   },
   windowOutputN: {
     backgroundColor: '#3b3b3b',
     flex: 1,
     borderRadius: 15,
     padding: 10,
+    elevation: 5,
   },
   buttons: {
     alignItems: 'center',
